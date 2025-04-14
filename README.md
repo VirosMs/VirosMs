@@ -23,6 +23,16 @@
 
 ###
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -94,13 +104,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
-</picture>
 
 ###

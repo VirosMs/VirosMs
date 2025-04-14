@@ -1,29 +1,27 @@
-<h2 align="left">Hi 👋! My name is VirosMs and I'm a BackEnd developer, from Spain/Brazil</h2>
+<h2 align="left">👋 ¡Hola! Soy <strong>VirosMs</strong></h2>
+
+<p align="left">💻 Desarrollador <strong>BackEnd</strong> apasionado desde <img src="https://cdn-icons-png.flaticon.com/24/197/197593.png" width="20"/> <strong>España</strong> / <img src="https://cdn-icons-png.flaticon.com/24/197/197386.png" width="20"/> <strong>Brasil</strong></p>
+
 
 ###
 
 <div align="center">
-
-  <img height="200" src="https://github.com/user-attachments/assets/3400d32c-0132-4d48-b9d8-f056b78e85ab"  />
+  <img height="200" src="https://github.com/user-attachments/assets/3400d32c-0132-4d48-b9d8-f056b78e85ab" alt="banner" />
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/VirosMS/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VirosMS&show_icons=true&theme=tokyonight&locale=es&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VirosMS&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app?username=VirosMS&theme=tokyonight&column=5&margin-w=3&margin-h=3" height="150" alt="Trophies" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirosMS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VirosMS&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=VirosMS&theme=tokyonight&column=5&margin-w=3&margin-h=3" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-###
+### 🕹️ Pacman Git
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph-dark.svg">
@@ -31,89 +29,88 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<div style="display: flex; align-items: center; justify-content: center;">
+### 🛠️ Tech Stack & Tools
 
-  <!-- Contenedor izquierdo con los dos divs uno debajo del otro -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
+  <!-- Tecnologías -->
+  <p><strong>Languages, Frameworks & Tools:</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="VS" />
+  </div>
 
-###
-
-  <div align="left">
-    <a href="https://www.instagram.com/charlesvms/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="https://www.twitch.tv/virosms" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-    </a>
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    <a href="contact@virosms.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/charlesarrudasantos-vms092/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
+  <!-- GIF animado -->
+  <div>
+    <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuMzhrMng0aGpyOGoxYnBlZGVwdnAxNThnODRleXA5a2U4NmNjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TADJ0HCgG7oxW/giphy.gif" alt="gif" />
   </div>
 </div>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuMzhrMng0aGpyOGoxYnBlZGVwdnAxNThnODRleXA5a2U4NmNjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TADJ0HCgG7oxW/giphy.gif"  />
+<!--
+---
 
-</div>
+### 🚀 Proyectos Destacados
 
-###
+Aquí algunos de mis proyectos favoritos. ¡Échales un vistazo!
 
-<br clear="both">
+- 🔧 **[NombreDelProyecto1](https://github.com/VirosMS/NombreDelProyecto1)**  
+  Breve descripción de lo que hace este proyecto, tecnologías utilizadas, etc.
 
-###
+- 📱 **[NombreDelProyecto2](https://github.com/VirosMS/NombreDelProyecto2)**  
+  Aplicación móvil creada con Flutter/Dart, con funcionalidad para XYZ.
+
+- 🛠️ **[NombreDelProyecto3](https://github.com/VirosMS/NombreDelProyecto3)**  
+  API REST con Spring Boot y PostgreSQL. Implementa autenticación, validaciones, y más.
+
+- ⚙️ **[NombreDelProyecto4](https://github.com/VirosMS/NombreDelProyecto4)**  
+  Proyecto con integración continua usando Docker y GitHub Actions.
+
+
+-->
+---
+
+
+### 🌐 Contact
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
-
+  <a href="https://www.instagram.com/charlesvms/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv/virosms" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  <a href="mailto:contact@virosms.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/charlesarrudasantos-vms092/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
 </div>
-###
+
+---
+
+### 🐍 Snake Git
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
+</div>

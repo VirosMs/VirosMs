@@ -1,25 +1,29 @@
-<h2 align="left">Hi 👋! My name is VirosMs and I'm a BackEnd developer, from Spain/Brazil</h2>
-<div align="center">
- <img src=https://github.com/user-attachments/assets/b6de4526-cee5-429b-9d96-5360680c93cb/>
+<h2 align="left">Hi 👋! My name is VirosMs and I'm a BackEnd developer, from Spain/Brazil</h2> 
 
+###
+
+<div align="center">
+
+  <img height="200" src="https://github.com/user-attachments/assets/3400d32c-0132-4d48-b9d8-f056b78e85ab"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirosMS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VirosMS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/VirosMS/count.svg?"  />
 </div>
 
 ###
 
-<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuMzhrMng0aGpyOGoxYnBlZGVwdnAxNThnODRleXA5a2U4NmNjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TADJ0HCgG7oxW/giphy.gif"  />
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VirosMS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=VirosMS&theme=tokyonight&column=5&margin-w=3&margin-h=3" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VirosMS&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -65,7 +69,11 @@
 
 ###
 
-<div align="left">
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuMzhrMng0aGpyOGoxYnBlZGVwdnAxNThnODRleXA5a2U4NmNjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TADJ0HCgG7oxW/giphy.gif"  />
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/charlesvms/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -86,5 +94,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

@@ -88,27 +88,16 @@
   </div>
 </div>
 
-<!--
+
 ---
 
 ### 🚀 Proyectos Destacados
 
 Aquí algunos de mis proyectos favoritos. ¡Échales un vistazo!
 
-- 🔧 **[NombreDelProyecto1](https://github.com/VirosMS/NombreDelProyecto1)**  
-  Breve descripción de lo que hace este proyecto, tecnologías utilizadas, etc.
+- 📱 **[PokedexVirosMs](https://github.com/VirosMS/PokedexVirosMs)**  
+  Este proyecto es una aplicación de Pokedex desarrollada en Kotlin utilizando el framework Jetpack Compose para la interfaz de usuario y Hilt para la inyección de dependencias. La aplicación muestra una lista de Pokemon que se pueden buscar y seleccionar para ver detalles adicionales.
 
-- 📱 **[NombreDelProyecto2](https://github.com/VirosMS/NombreDelProyecto2)**  
-  Aplicación móvil creada con Flutter/Dart, con funcionalidad para XYZ.
-
-- 🛠️ **[NombreDelProyecto3](https://github.com/VirosMS/NombreDelProyecto3)**  
-  API REST con Spring Boot y PostgreSQL. Implementa autenticación, validaciones, y más.
-
-- ⚙️ **[NombreDelProyecto4](https://github.com/VirosMS/NombreDelProyecto4)**  
-  Proyecto con integración continua usando Docker y GitHub Actions.
-
-
--->
 ---
 
 

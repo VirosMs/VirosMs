@@ -1,12 +1,12 @@
 <h2 align="left">👋 ¡Hola! Soy <strong>VirosMs</strong></h2>
 
-<p align="left">💻 Desarrollador <strong>BackEnd</strong> apasionado desde <img src="https://cdn-icons-png.flaticon.com/24/197/197593.png" width="20"/> <strong>España</strong> / <img src="https://cdn-icons-png.flaticon.com/24/197/197386.png" width="20"/> <strong>Brasil</strong></p>
+<p align="left">💻 Desarrollador apasionado por <strong>BackEnd</strong>, soy de <img src="https://cdn-icons-png.flaticon.com/24/197/197593.png" width="20"/> <strong>España</strong> / <img src="https://cdn-icons-png.flaticon.com/24/197/197386.png" width="20"/> <strong>Brasil</strong></p>
 
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/3400d32c-0132-4d48-b9d8-f056b78e85ab" alt="banner" />
+  <img height="200" src="https://github.com/user-attachments/assets/fc7085c7-6e1a-4192-b79e-128049ecad3f" alt="banner" />
 </div>
 
 ---

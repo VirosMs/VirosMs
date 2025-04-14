@@ -51,6 +51,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+### 🚀 Proyectos Destacados
+
+Aquí algunos de mis proyectos favoritos. ¡Échales un vistazo!
+
+- 📱 **[PokedexVirosMs](https://github.com/VirosMS/PokedexVirosMs)**  
+  Este proyecto es una aplicación de Pokedex desarrollada en Kotlin utilizando el framework Jetpack Compose para la interfaz de usuario y Hilt para la inyección de dependencias. La aplicación muestra una lista de Pokemon que se pueden buscar y seleccionar para ver detalles adicionales.
 
 ---
 
@@ -88,18 +96,7 @@
   </div>
 </div>
 
-
 ---
-
-### 🚀 Proyectos Destacados
-
-Aquí algunos de mis proyectos favoritos. ¡Échales un vistazo!
-
-- 📱 **[PokedexVirosMs](https://github.com/VirosMS/PokedexVirosMs)**  
-  Este proyecto es una aplicación de Pokedex desarrollada en Kotlin utilizando el framework Jetpack Compose para la interfaz de usuario y Hilt para la inyección de dependencias. La aplicación muestra una lista de Pokemon que se pueden buscar y seleccionar para ver detalles adicionales.
-
----
-
 
 ### 🌐 Contact
 

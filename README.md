@@ -35,7 +35,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
 
-  <!-- Contenedor izquierdo con los dos divs uno debajo del otro -->
+
   <div style="display: flex; flex-direction: column; align-items: center;">
 
 <div align="left">

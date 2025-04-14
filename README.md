@@ -1,3 +1,11 @@
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/fc7085c7-6e1a-4192-b79e-128049ecad3f" alt="banner" />
+</div>
+
+---
+
 <h2 align="left">👋 ¡Hola! Soy <strong>VirosMs</strong></h2>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
@@ -19,15 +27,6 @@
     </a>
   </div>
 
-</div>
-
-
----
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/fc7085c7-6e1a-4192-b79e-128049ecad3f" alt="banner" />
 </div>
 
 ---

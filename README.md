@@ -17,8 +17,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VirosMS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=VirosMS&theme=tokyonight&column=5&margin-w=3&margin-h=3" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VirosMS&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=VirosMS&theme=tokyonight&column=5&margin-w=3&margin-h=3" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -103,6 +103,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake-contribution-graph.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake-contribution-graph.svg">
+</picture>
 
 ###

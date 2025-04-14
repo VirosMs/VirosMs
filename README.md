@@ -1,7 +1,28 @@
 <h2 align="left">👋 ¡Hola! Soy <strong>VirosMs</strong></h2>
 
-<p align="left">💻 Desarrollador apasionado por <strong>BackEnd</strong>, soy de <img src="https://cdn-icons-png.flaticon.com/24/197/197593.png" width="20"/> <strong>España</strong> / <img src="https://cdn-icons-png.flaticon.com/24/197/197386.png" width="20"/> <strong>Brasil</strong></p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
+  <!-- Descripción Personal -->
+  <div style="text-align: left; max-width: 400px;">
+    <p>
+      💻 Desarrollador apasionado por <strong>BackEnd</strong>, soy de 
+      <img src="https://cdn-icons-png.flaticon.com/24/197/197593.png" width="20" alt="España" /> <strong>España</strong> /
+      <img src="https://cdn-icons-png.flaticon.com/24/197/197386.png" width="20" alt="Brasil" /> <strong>Brasil</strong>
+    </p>
+  </div>
+
+  <!-- Sección de Spotify -->
+  <div align="center">
+    <h3>🎧 Escuchando en Spotify</h3>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=char2001les&redirect=true" target="_blank">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=char2001les&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    </a>
+  </div>
+
+</div>
+
+
+---
 
 ###
 

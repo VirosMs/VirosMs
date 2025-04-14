@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is VirosMs and I'm a BackEnd developer, from Spain/Brazil</h2> 
+<h2 align="left">Hi 👋! My name is VirosMs and I'm a BackEnd developer, from Spain/Brazil</h2>
 
 ###
 
@@ -33,7 +33,12 @@
 
 ###
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
+
+  <!-- Contenedor izquierdo con los dos divs uno debajo del otro -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -79,24 +84,25 @@
 
 ###
 
+  <div align="left">
+    <a href="https://www.instagram.com/charlesvms/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    </a>
+    <a href="https://www.twitch.tv/virosms" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    </a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <a href="contact@virosms.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/charlesarrudasantos-vms092/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+  </div>
+</div>
+
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuMzhrMng0aGpyOGoxYnBlZGVwdnAxNThnODRleXA5a2U4NmNjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TADJ0HCgG7oxW/giphy.gif"  />
 
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/charlesvms/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/virosms" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="contact@virosms.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/charlesarrudasantos-vms092/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -105,6 +111,9 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/VirosMS/VirosMS/output/snake.svg" alt="Snake animation" />
+
+</div>
 ###
